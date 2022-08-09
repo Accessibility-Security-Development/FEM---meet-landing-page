@@ -3,6 +3,7 @@
 This is a Frontend Mentor challenge. 
 
 HTML and CSS were used (including CSS grid). 
+BEM used to organise the stylesheet.
 
 Responsiveness: 
 Tested with Responsively for various devices (but not every existing device).
