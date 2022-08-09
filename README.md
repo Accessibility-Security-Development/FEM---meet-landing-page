@@ -27,7 +27,7 @@ Tools used to test accessibility:
 -Google lighthouse (general accessibility including color contrast and alt text)
 -https://wave.webaim.org/ (general accessibility including color contrast and alt text)
 -https://color.a11y.com/?wc3 (for color contrast)
--https://seositecheckup.com/ (for alt text)
+-https://seositecheckup.com/ (for alt text).
 
 Accessibility checklist used: 
 https://www.a11yproject.com/checklist/
