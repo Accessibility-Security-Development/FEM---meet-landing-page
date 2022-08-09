@@ -350,8 +350,8 @@ h3 {
   }
 
   .footer__text {
-    padding-left: 70px;
-    padding-right: 98px;
+    padding-left: 4.375rem;
+    padding-right: 6.125rem;
     width: 100%;
   }
 
@@ -363,7 +363,7 @@ h3 {
 
 @media screen and (min-width: 1440px) {
   body {
-    font-size: 15px;
+    font-size: 0.9375rem;
     font-family: 'Red Hat Display', sans-serif;
     width: 100%;
     height: auto;
@@ -372,9 +372,9 @@ h3 {
   }
 
   .logo {
-    margin-top: 80px;
-    margin-left: 300px;
-    margin-bottom: 60px;
+    margin-top: 5rem;
+    margin-left: 18.75rem;
+    margin-bottom: 3.75rem;
   }
 
   .header-container-desktop-only {
@@ -396,7 +396,7 @@ h3 {
   .heroes-desktop-right {
     grid-area: right;
     display: block;
-    margin-left: 60px;
+    margin-left: 3.75rem;
   }
 
   .header-text-container {
@@ -405,20 +405,20 @@ h3 {
   }
 
   .button--green {
-    margin-left: 55px;
+    margin-left: 3.4375rem;
   }
 
   .photos {
-    max-width: 1100px;
-    margin-bottom: 180px;
+    max-width: 68.75rem;
+    margin-bottom: 11.25rem;
   }
 
   .photos__photo1,
   .photos__photo2,
   .photos__photo3,
   .photos__photo4 {
-    width: 255px;
-    height: 242px;
+    width: 15.9375rem;
+    height: 15.125rem;
   }
 
   h2 {
@@ -441,20 +441,20 @@ h3 {
   h3 {
     position: absolute;
     width: 50%;
-    right: 800px;
-    top: 116px;
+    right: 50rem;
+    top: 7.25rem;
   }
 
   .footer__text {
     position: absolute;
     width: 35%;
-    right: 400px;
-    top: 116px;
+    right: 25rem;
+    top: 7.25rem;
   }
 
   .button--purple {
     position: absolute;
-    left: 800px;
-    top: 116px;
+    left: 50rem;
+    top: 7.25rem;
   }
 }
