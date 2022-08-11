@@ -23,11 +23,11 @@ Accessibility features:
 -Aria property added to improve screen reader navigation. 
 
 Tools used to test accessibility: 
-*Axe dev tools extention (general accessibility including color contrast and alt text)
-*Google lighthouse (general accessibility including color contrast and alt text)
-*https://wave.webaim.org/ (general accessibility including color contrast and alt text
-*https://color.a11y.com/?wc3 (for color contrast)
-*https://seositecheckup.com/ (for alt text).
+-Axe dev tools extention (general accessibility including color contrast and alt text)
+-Google lighthouse (general accessibility including color contrast and alt text)
+-https://wave.webaim.org/ (general accessibility including color contrast and alt text
+-https://color.a11y.com/?wc3 (for color contrast)
+-https://seositecheckup.com/ (for alt text).
 
 Accessibility checklist used: 
 https://www.a11yproject.com/checklist/
