@@ -1,6 +1,6 @@
 # FEM---meet-landing-page
 
-This is a Frontend Mentor challenge. 
+This is a Frontend Mentor challenge and the associated Figma file was provided by Frontend Mentor. 
 
 HTML and CSS were used (including CSS grid). 
 BEM used to organise the stylesheet.
