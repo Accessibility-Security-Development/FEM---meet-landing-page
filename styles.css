@@ -9,13 +9,13 @@
 /* CUSTOM PROPERTIES */
 :root {
   /* Colors */
-  --color-dark-green-blue: #4d96a9;
-  --color-light-cyan: #8fe3f9;
-  --color-dark-purple: #855fb1;
-  --color-light-purple: #d9b8ff;
+  --color-dark-green-blue: #006683;
+  --color-light-cyan: #daf5fa;
+  --color-dark-purple: #4c118f;
+  --color-light-purple: #e6deed;
   --color-black: #28283d;
   --color-white: #fafafa;
-  --color-gray: #87879d;
+  --color-gray: #373739;
 }
 
 html {
