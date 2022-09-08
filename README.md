@@ -15,8 +15,7 @@ CSS validation tool used:
 W3C CSS validation service - https://jigsaw.w3.org/css-validator/
 
 Accessibility Issues: 
--Insufficient contrast in multiple elements detected. 
-The design remained unchanged since it was provided by Frontend Mentor. 
+-Contrast has been enhanced sufficiently in all elements but one (the element with the overlay). 
 
 Accessibility features:
 -Semantic HTML used 
